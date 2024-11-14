@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://krish642002:Mongodb2002@krishna.u3ah2bz.mongodb.net/?retryWrites=true&w=majority
+            database: test
